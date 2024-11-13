@@ -1,0 +1,4 @@
+1.Data Cleaning:Remove any duplicate rows.
+2.Handling Missing Data:Identify and count missing values.
+3.Data Transformation:Normalize or scale the numerical features to bring them to a similar scale.
+4.Randomly Divide Dataset:Split the dataset into training (75%) and testing (25%) sets.
